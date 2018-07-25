@@ -94,7 +94,7 @@ public class calc {
     }
 
     /**
-     * Fungsi untuk mencari Bilangan Berpangkat
+     * Fungsi untuk mencari Bilangan yang Berpangkat
      *
      * @param nilai integer
      * @param pangkat integer
