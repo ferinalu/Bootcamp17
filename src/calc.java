@@ -59,7 +59,7 @@ public class calc {
     }
 
     /**
-     * Fungsi yang digunakan untuk mencari Permutasi
+     * Fungsi yang digunakan untuk mencari bilangan Permutasi
      *
      * @param n integer
      * @param r integer
